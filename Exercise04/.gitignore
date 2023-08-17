@@ -1,0 +1,15 @@
+target/
+
+files/countries/*
+!files/countries/.gitkeep
+
+files/nearest_tour/*
+!files/nearest_tour/.gitkeep
+
+files/two_opt_nearest_neighbor/*
+!files/two_opt_nearest_neighbor/*
+
+files/two_opt_order_points/*
+!files/two_opt_order_points/.gitkeep
+
+

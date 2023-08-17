@@ -1,0 +1,12 @@
+files/random/*
+files/rudy/*
+!files/pace/.gitkeep
+!files/test_files/.gitkeep
+!files/BigMac/ising/.gitkeep
+!files/BigMac/rudy/.gitkeep
+!files/.gitkeep
+!files/random/.gitkeep
+!files/rudy/.gitkeep
+
+target/
+.vscode/
